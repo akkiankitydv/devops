@@ -1,0 +1,2 @@
+a = "ankit"
+print(a)
